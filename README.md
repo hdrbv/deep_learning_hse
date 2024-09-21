@@ -16,3 +16,8 @@
     10. Трансформеры (II): CLIP, DALL-E, DDPM, etc
 </pre></big>
 
+## Domesticum[^1]
+
+[^1]: https://classroom.google.com/c/Njg1NzM3NjYxMDEz?cjc=owjk6uh
+
+
