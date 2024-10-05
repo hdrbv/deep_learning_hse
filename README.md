@@ -7,7 +7,7 @@
     1. [**Введение в глубинное обучение**](https://github.com/hdrbv/deep_learning_hse/tree/main/week_1)
     2. [**Функции активации. Инициализация весов**](https://github.com/hdrbv/deep_learning_hse/tree/main/week_2)
     3. [**Оптимизация. Обучение нейросетей**](https://github.com/hdrbv/deep_learning_hse/tree/main/week_3)
-    4. Сверточные нейросети
+    4. [**Сверточные нейросети**](https://github.com/hdrbv/deep_learning_hse/tree/main/week_4)
     5. Генеративные модели в CV
     6. Обработка естественного языка: эмбеддинги и языковые модели
     7. Обработка естественного языка: RNN, LSTM, Seq2seq
