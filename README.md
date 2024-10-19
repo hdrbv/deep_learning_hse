@@ -9,7 +9,7 @@
     3. [**Оптимизация. Обучение нейросетей**](https://github.com/hdrbv/deep_learning_hse/tree/main/week_3)
     4. [**Сверточные нейросети**](https://github.com/hdrbv/deep_learning_hse/tree/main/week_4)
     5. [**Генеративные модели в CV**](https://github.com/hdrbv/deep_learning_hse/tree/main/week_5)
-    6. Обработка естественного языка: эмбеддинги и языковые модели
+    6. [**Обработка естественного языка: эмбеддинги и языковые модели**](https://github.com/hdrbv/deep_learning_hse/tree/main/week_6)
     7. Обработка естественного языка: RNN, LSTM, Seq2seq
     8. Обработка естественного языка: Attention, Transformer
     9. Трансформеры (I): GPT-n, BERT, BART, T5, etc
@@ -19,6 +19,7 @@
 ## Domesticum[^1]
 
 [Exercitationem I](https://github.com/hdrbv/deep_learning_hse/tree/main/home_assignments/ha1)
+[Exercitationem II](https://github.com/hdrbv/deep_learning_hse/tree/main/home_assignments/ha2)
 
 [^1]: https://classroom.google.com/c/Njg1NzM3NjYxMDEz?cjc=owjk6uh
 
