@@ -19,6 +19,7 @@
 ## Domesticum[^1]
 
 [Exercitationem I](https://github.com/hdrbv/deep_learning_hse/tree/main/home_assignments/ha1)
+
 [Exercitationem II](https://github.com/hdrbv/deep_learning_hse/tree/main/home_assignments/ha2)
 
 [^1]: https://classroom.google.com/c/Njg1NzM3NjYxMDEz?cjc=owjk6uh
