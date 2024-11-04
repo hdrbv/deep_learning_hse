@@ -22,6 +22,8 @@
 
 [Exercitationem II](https://github.com/hdrbv/deep_learning_hse/tree/main/home_assignments/ha2)
 
+[Exercitationem III](https://github.com/hdrbv/deep_learning_hse/tree/main/home_assignments/ha3)
+
 [^1]: https://classroom.google.com/c/Njg1NzM3NjYxMDEz?cjc=owjk6uh
 
 
