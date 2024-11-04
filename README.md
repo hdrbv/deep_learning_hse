@@ -26,4 +26,12 @@
 
 [^1]: https://classroom.google.com/c/Njg1NzM3NjYxMDEz?cjc=owjk6uh
 
+## Рекомендованная литература
+
+- Murphy K. Machine Learning: A Probabilistic Perspective
+- Mohammed J. Zaki, Wagner Meira Jr. Data Mining and Analysis. Fundamental Concepts and Algorithms
+- Willi Richert, Luis Pedro Coelho. Building Machine Learning Systems with Python
+- Николенко С. И. Глубокое обучение. Погружение в мир нейронных сетей
+- Учебник по машинному обучению от ШАД
+
 
