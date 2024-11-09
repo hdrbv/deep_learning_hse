@@ -12,7 +12,7 @@
     6. [**Обработка естественного языка: эмбеддинги и языковые модели**](https://github.com/hdrbv/deep_learning_hse/tree/main/week_6)
     7. [**Обработка естественного языка: RNN, LSTM, Seq2seq**](https://github.com/hdrbv/deep_learning_hse/tree/main/week_7)
     8. [**Обработка естественного языка: Attention, Transformer**](https://github.com/hdrbv/deep_learning_hse/tree/main/week_8)
-    9. Трансформеры (I): GPT-n, BERT, BART, T5, etc
+    9. [**Трансформеры (I): GPT-n, BERT, BART, T5, etc**](https://github.com/hdrbv/deep_learning_hse/tree/main/week_9)
     10. Трансформеры (II): CLIP, DALL-E, DDPM, etc
 </pre></big>
 
