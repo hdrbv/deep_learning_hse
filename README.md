@@ -13,7 +13,7 @@
     7. [**Обработка естественного языка: RNN, LSTM, Seq2seq**](https://github.com/hdrbv/deep_learning_hse/tree/main/week_7)
     8. [**Обработка естественного языка: Attention, Transformer**](https://github.com/hdrbv/deep_learning_hse/tree/main/week_8)
     9. [**Трансформеры (I): GPT-n, BERT, BART, T5, etc**](https://github.com/hdrbv/deep_learning_hse/tree/main/week_9)
-    10. Трансформеры (II): CLIP, DALL-E, DDPM, etc
+    10. [**Трансформеры (II): CLIP, DALL-E, DDPM, etc**](https://github.com/hdrbv/deep_learning_hse/tree/main/week_10)
 </pre></big>
 
 ## Domesticum[^1]
