@@ -24,6 +24,8 @@
 
 [Exercitationem III](https://github.com/hdrbv/deep_learning_hse/tree/main/home_assignments/ha3)
 
+[Exercitationem (bonus)](https://github.com/hdrbv/deep_learning_hse/tree/main/home_assignments/ha_bonus)
+
 [^1]: https://classroom.google.com/c/Njg1NzM3NjYxMDEz?cjc=owjk6uh
 
 ## Рекомендованная литература
