@@ -5,26 +5,26 @@
 ## План курса
 <big><pre>
     1. [**Введение в глубинное обучение**](./week_1)
-    2. [**Функции активации. Инициализация весов**](https://github.com/hdrbv/deep_learning_hse/tree/main/week_2)
-    3. [**Оптимизация. Обучение нейросетей**](https://github.com/hdrbv/deep_learning_hse/tree/main/week_3)
-    4. [**Сверточные нейросети**](https://github.com/hdrbv/deep_learning_hse/tree/main/week_4)
-    5. [**Генеративные модели в CV**](https://github.com/hdrbv/deep_learning_hse/tree/main/week_5)
-    6. [**Обработка естественного языка: эмбеддинги и языковые модели**](https://github.com/hdrbv/deep_learning_hse/tree/main/week_6)
-    7. [**Обработка естественного языка: RNN, LSTM, Seq2seq**](https://github.com/hdrbv/deep_learning_hse/tree/main/week_7)
-    8. [**Обработка естественного языка: Attention, Transformer**](https://github.com/hdrbv/deep_learning_hse/tree/main/week_8)
-    9. [**Трансформеры (I): GPT-n, BERT, BART, T5, etc**](https://github.com/hdrbv/deep_learning_hse/tree/main/week_9)
-    10. [**Трансформеры (II): CLIP, DALL-E, DDPM, etc**](https://github.com/hdrbv/deep_learning_hse/tree/main/week_10)
+    2. [**Функции активации. Инициализация весов**](./week_2)
+    3. [**Оптимизация. Обучение нейросетей**](./week_3)
+    4. [**Сверточные нейросети**](./week_4)
+    5. [**Генеративные модели в CV**](./week_5)
+    6. [**Обработка естественного языка: эмбеддинги и языковые модели**](./week_6)
+    7. [**Обработка естественного языка: RNN, LSTM, Seq2seq**](./week_7)
+    8. [**Обработка естественного языка: Attention, Transformer**](./week_8)
+    9. [**Трансформеры (I): GPT-n, BERT, BART, T5, etc**](./week_9)
+    10. [**Трансформеры (II): CLIP, DALL-E, DDPM, etc**](./week_10)
 </pre></big>
 
 ## Domesticum[^1]
 
-[Exercitationem I](https://github.com/hdrbv/deep_learning_hse/tree/main/home_assignments/ha1)
+[Exercitationem I](./home_assignments/ha1)
 
-[Exercitationem II](https://github.com/hdrbv/deep_learning_hse/tree/main/home_assignments/ha2)
+[Exercitationem II](./home_assignments/ha2)
 
-[Exercitationem III](https://github.com/hdrbv/deep_learning_hse/tree/main/home_assignments/ha3)
+[Exercitationem III](./home_assignments/ha3)
 
-[Exercitationem (bonus)](https://github.com/hdrbv/deep_learning_hse/tree/main/home_assignments/ha_bonus)
+[Exercitationem (bonus)](./home_assignments/ha_bonus)
 
 [^1]: https://classroom.google.com/c/Njg1NzM3NjYxMDEz?cjc=owjk6uh
 
