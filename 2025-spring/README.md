@@ -11,7 +11,7 @@
     7. [**Обработка естественного языка: RNN, LSTM, Seq2seq**](./week_7)
     8. [**Обработка естественного языка: Attention, Transformer**](./week_8)
     9. [**Трансформеры (I): GPT-n, BERT, BART, T5, etc**](./week_9)
-    10. Трансформеры (II): CLIP, DALL-E, DDPM, etc 
+    10. [**Трансформеры (II): CLIP, DALL-E, DDPM, etc**](./week_10)
 </pre></big>
 
 ## Domesticum[^1]
